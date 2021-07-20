@@ -1,0 +1,6 @@
+{
+    "test": "test",
+    "help": {
+        "message":"You are not allowed!"
+    }
+}
